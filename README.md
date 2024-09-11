@@ -96,7 +96,10 @@ plt.ylabel("Scores")
 plt.show()`
 `````
 
+
 ![image](https://github.com/user-attachments/assets/7e03f5d5-36bf-442a-b1b0-c0c26ac2759d)
+
+
 ````
 mse=mean_squared_error(y_test,y_pred)
 print("MSE = ",mse)
